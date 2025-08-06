@@ -1,1 +1,1 @@
-# fruit_categories_classification_streamlitapp
+# fruit_classification_streamlitapp
