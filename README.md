@@ -25,5 +25,4 @@ A lightweight Streamlit app that classifies fruit images into three categories: 
 Model accuracy: 0.92% - loss: 0.32
 ---
 🙌 Credits
-- Dataset: Sriram R
 - App: Darshan Modi — Technoholic  BI Student  ML Enthusiast
